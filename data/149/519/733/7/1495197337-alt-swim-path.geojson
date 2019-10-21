@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "id": 1495197337,
+  "properties": {
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 35.79611982263114,
+    "geom:longitude": -126.00710120562972,
+    "src:geom": "swim",
+    "swim:altitudes": ["370C", "370C", "370"],
+    "swim:geom": "path",
+    "swim:speeds": [463, 459, 470],
+    "swim:timestamps": [1571628540, 1571628848, 1571628861],
+    "wof:alt_label": "swim-path",
+    "wof:geomhash": "58ce3e23d4e0fce846132308f81023a1",
+    "wof:id": 1495197337
+  },
+  "geometry": {"coordinates":[[-126.39472222222223,35.64555555555555],[-125.66083333333334,35.93138888888889],[-125.61666666666666,35.93333333333333]],"type":"LineString"}
+}
